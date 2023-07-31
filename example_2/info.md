@@ -1,0 +1,1 @@
+https://docs-python.ru/standart-library/modul-socket-setevoj-interfejs-python/
